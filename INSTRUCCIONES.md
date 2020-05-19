@@ -1,13 +1,13 @@
-## 1) Hacer modificaciones a mis archivos
+### 1) Hacer modificaciones a mis archivos
 
-## 2) Meterlos a un espacio temporal
+### 2) Meterlos a un espacio temporal
 
-git add .
+`git add .`
 
-## 3) Empaquetarlos antes de enviar
+### 3) Empaquetarlos antes de enviar
 
-git commit -m "Mensaje del paquete"
+`git commit -m "Mensaje del paquete"`
 
-## 4) Mandar el paquete a GitHub
+### 4) Mandar el paquete a GitHub
 
-git push -u origin master
+`git push -u origin master`
